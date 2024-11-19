@@ -1,4 +1,4 @@
-# Replication Code for "More than 'Left and Right': Revealing Multilevel Online Political Selective Exposure"
+# Replication Code for "More than 'Left and Right': Revealing Multilevel Online Political Selective Exposure
 
 This repository lists all the Python and R scripts used for replicating the results in the paper:  
 **More than 'Left and Right': Revealing Multilevel Online Political Selective Exposure**
