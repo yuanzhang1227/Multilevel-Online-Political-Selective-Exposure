@@ -8,8 +8,7 @@ The preprint version of the main text is available on:
 https://arxiv.org/abs/2408.03828
 
 ## Data Availability
-The datasets used for replicating the results can be accessed through Harvard Dataverse when the paper is formally published:  
-https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/46ZS2Y
+The datasets used for replicating the results can be accessed through Harvard Dataverse when the paper is formally published.  
 
 ## Citation
 For citing the paper, please use:  
